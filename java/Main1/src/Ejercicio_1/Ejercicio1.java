@@ -1,4 +1,7 @@
-public class Ejercicio_1 
+package Ejercicio_1;
+
+
+public class Ejercicio1 
 {
 
     public static int sumaArreglo(int[] arreglo)
